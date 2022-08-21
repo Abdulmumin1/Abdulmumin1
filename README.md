@@ -22,9 +22,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdulmumin6"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdulmumin6" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulmumin1&show_icons=true&locale=en&layout=compact" alt="abdulmumin1" /></p>
+### Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abdulmumin1&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abdulmumin1&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmumin1&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulmumin1&show_icons=true&locale=en" alt="abdulmumin1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmumin1&" alt="abdulmumin1" /></p>
-
+---
+[![](https://visitcount.itsvg.in/api?id=Abdulmumin1&icon=1&color=12)](https://visitcount.itsvg.in)
