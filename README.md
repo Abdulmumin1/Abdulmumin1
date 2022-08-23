@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Abdulmumin1</h1>
 <h3 align="center">A fullsnacks developer from Nigeria</h3>
 
