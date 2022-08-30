@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NumberTime**
 
-- 📫 How to reach me **abdulmuminabdulkarim55@gmail.com**
+- 📫 How to reach me **contact@abdulmumin.com**
 
 - ⚡ Fun fact **Am boring**
 
