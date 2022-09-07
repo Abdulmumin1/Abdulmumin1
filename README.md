@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **contact@abdulmumin.com**
 
-- ⚡ Fun fact **Am boring**
+- ⚡ Fun fact **😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
