@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **this guy is boring 😥**
 
-### Recent blog
+### Recent article
 [Write your first web app in python](https://abdulmumin.herokuapp.com/blog/Write+your+first+web+app+in+python/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
