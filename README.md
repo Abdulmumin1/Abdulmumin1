@@ -1,3 +1,4 @@
+<img src="https://abdulmumin.com/asset/logo/preview.png"/>
 <h1 align="center">Hi 👋, I'm Abdulmumin Yaqeen </h1>
 <h3 align="center">A fullsnacks developer from Nigeria</h3>
 
