@@ -11,7 +11,7 @@
 - ⚡ Fun fact **this guy is boring 😥**
 
 ### Recent article
-[Write your first web app in python](https://abdulmumin.herokuapp.com/blog/Write+your+first+web+app+in+python/)
+[Write your first web app in python](https://site.abdulmumin.com/blog/Write+your+first+web+app+in+python/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdulmuminyqn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulmuminyqn" height="30" width="40" /></a>
