@@ -11,6 +11,8 @@
 - ⚡ Fun fact **this guy is boring 😥**
 
 ### Recent article
+[how to learn code faster](https://blog.abdulmumin.com/how-to-learn-to-code-faster)
+
 [Write your first web app in python](https://site.abdulmumin.com/blog/Write+your+first+web+app+in+python/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
