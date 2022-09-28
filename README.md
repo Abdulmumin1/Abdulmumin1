@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **contact@abdulmumin.com**
 
-- ⚡ Fun fact **this guy is boring 😥**
+- ⚡ Fun fact **this guy is boring 🙀**
 
 ### Recent article
 [how to learn code faster](https://blog.abdulmumin.com/how-to-learn-to-code-faster)
