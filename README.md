@@ -1,14 +1,12 @@
-<!-- <img src="https://abdulmumin.com/assets/logo/preview.png"/> -->
+Jo<!-- <img src="https://abdulmumin.com/assets/logo/preview.png"/> -->
 <h1 align="center">Hi 👋, I'm Abdulmumin Yaqeen </h1>
 <h3 align="center">A fullstack developer, love building desktop apps.. </h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmumin1&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmumin1" /> </p>-->
 
-- 🔭 I’m currently working on **abdulmumin.com**
+- 🔭 I’m currently learning **Javascript**
 
 - 📫 How to reach me **contact@abdulmumin.com**
-
-- ⚡ Fun fact **this guy is boring 🙀**
 
 ### Recent article
 [how to learn code faster](https://blog.abdulmumin.com/how-to-learn-to-code-faster)
