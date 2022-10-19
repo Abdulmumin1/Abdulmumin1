@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **contact@abdulmumin.com**
 
-### Recent article
+### Recent articles:
 [how to learn code faster](https://blog.abdulmumin.com/how-to-learn-to-code-faster)
 
 [Write your first web app in python](https://site.abdulmumin.com/blog/Write+your+first+web+app+in+python/)
