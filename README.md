@@ -6,7 +6,7 @@
 
 - 🔭 Currently learning **Javascript**
 
-- 📫 How to reach me **contact@abdulmumin.com**
+- 📫 How to reach me **abdulmuminabdulkarim55**
 
 ### Recent articles:
 [how to learn code faster](https://blog.abdulmumin.com/how-to-learn-to-code-faster)
