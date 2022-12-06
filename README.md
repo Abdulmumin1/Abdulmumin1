@@ -1,17 +1,22 @@
 <!-- <img src="https://abdulmumin.com/assets/logo/preview.png"/> -->
 <h1 align="center">Yo ✌, I'm Abdulmumin Yaqeen</h1>
-<h3 align="center">fullstack developer, building free and useful products </h3>
+<p align="left">fullstack developer and a technical writer, building free and useful products.</p>
+<p>I do graphics design and creates stunning 3D renders from time to time. </p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmumin1&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmumin1" /> </p>-->
 
 - 🔭 Currently learning **Javascript**
 
-- 📫 How to reach me **abdulmuminabdulkarim55**
+- 📫 How to reach me **abdulmuminabdulkarim55@gmail.com**
+- Connect with me on Hashnode @ [blog.abdulmumin.com](https://blog.abdulmumin.com) 
 
 ### Recent articles:
+[start your journey with open source 🔓](https://blog.abdulmumin.com/open-source)
+
 [how to learn code faster](https://blog.abdulmumin.com/how-to-learn-to-code-faster)
 
 [Write your first web app in python](https://site.abdulmumin.com/blog/Write+your+first+web+app+in+python/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdulmuminyqn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulmuminyqn" height="30" width="40" /></a>
