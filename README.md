@@ -8,7 +8,7 @@
 - 🔭 Currently learning **Javascript**
 
 - 📫 How to reach me **abdulmuminabdulkarim55@gmail.com**
-- Connect with me on Hashnode @ [blog.abdulmumin.com](https://blog.abdulmumin.com) 
+- Connect with me on Hashnode @ [abdulmumin.com](https://abdulmumin.com) 
 
 ### Recent articles:
 [start your journey with open source 🔓](https://blog.abdulmumin.com/open-source)
