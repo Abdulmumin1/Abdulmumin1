@@ -1,6 +1,6 @@
 <!-- <img src="https://abdulmumin.com/assets/logo/preview.png"/> -->
 <h1 align="center">Yo ✌, I'm Abdulmumin Yaqeen</h1>
-<p align="left">fullstack developer and a technical writer, builds free and useful slut to problems I find interesting.</p>
+<p align="left">fullstack developer and a technical writer, builds free and useful solution to problems I find interesting.</p>
 <p>I do graphics design and creates stunning 3D renders from time to time. </p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmumin1&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmumin1" /> </p>-->
