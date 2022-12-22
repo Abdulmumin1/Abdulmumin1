@@ -13,9 +13,9 @@
 ### Recent articles:
 [Ways to debug your code](https://abdulmumin.com/how-to-debug-any-code) 
 
-[start your journey with open source 🔓](https://abdulmumin.com/open-source)
+[Start your journey with Open Source 🔓](https://abdulmumin.com/open-source)
 
-[how to learn code faster](https://abdulmumin.com/how-to-learn-to-code-faster)
+[How to learn code faster](https://abdulmumin.com/how-to-learn-to-code-faster)
 
 
 <h3 align="left">Connect with me:</h3>
