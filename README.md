@@ -12,7 +12,7 @@
 
 ### Recent articles:
 [Ways to debug your code](https://abdulmumin.com) 
-[start your journey with open source 🔓](https://blog.abdulmumin.com/open-source)
+[start your journey with open source 🔓](https://abdulmumin.com/open-source)
 
 [how to learn code faster](https://abdulmumin.com/how-to-learn-to-code-faster)
 
