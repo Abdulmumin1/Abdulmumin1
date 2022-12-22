@@ -11,7 +11,8 @@
 - Connect with me on Hashnode @ [abdulmumin.com](https://abdulmumin.com) 
 
 ### Recent articles:
-[Ways to debug your code](https://abdulmumin.com) 
+[Ways to debug your code](https://abdulmumin.com/how-to-debug-any-code) 
+
 [start your journey with open source 🔓](https://abdulmumin.com/open-source)
 
 [how to learn code faster](https://abdulmumin.com/how-to-learn-to-code-faster)
