@@ -11,11 +11,11 @@
 - Connect with me on Hashnode @ [abdulmumin.com](https://abdulmumin.com) 
 
 ### Recent articles:
+[Ways to debug your code](https://abdulmumin.com) 
 [start your journey with open source 🔓](https://blog.abdulmumin.com/open-source)
 
-[how to learn code faster](https://blog.abdulmumin.com/how-to-learn-to-code-faster)
+[how to learn code faster](https://abdulmumin.com/how-to-learn-to-code-faster)
 
-[Write your first web app in python](https://site.abdulmumin.com/blog/Write+your+first+web+app+in+python/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
