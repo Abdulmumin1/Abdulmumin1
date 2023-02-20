@@ -108,6 +108,13 @@
       height="40"
     />
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"  alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <h3 align="left">Tools</h3>
