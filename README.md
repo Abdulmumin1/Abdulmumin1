@@ -1,13 +1,13 @@
-Hi 👋 My name is Abdulmumin Yaqeen
+Abdulmumin Yaqeen
 ==================================
 
-Technical Writer & Developer
-----------------------------
+**Technical Writer & Developer**
+
 
 I'm a technical writer and a developer with expertise in building both mobile and web applications.
 
-* 🖥️  See my blog at [abdulmumin.com](http://abdulmumin.com)
-* ✉️   Contact me at [abdulmuminyqn@gmail.com](mailto:abdulmuminyqn@gmail.com)
+* [abdulmumin.com](http://abdulmumin.com)
+* [abdulmuminyqn@gmail.com](mailto:abdulmuminyqn@gmail.com)
 
 ### Skills
 
