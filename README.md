@@ -4,7 +4,9 @@ Abdulmumin Yaqeen
 **Technical Writer & Developer**
 
 
-I'm a technical writer and a developer with expertise in building both mobile and web applications.
+A technical writer and a developer with a deep fascination for computer science theory. Enjoys exploring new tools and technologies and  I actively seek opportunities to expand my knowledge and skill set.
+
+I'm commited to both learning and writing and I actively share my learnings and knowledge through my blog with the rest of the world.
 
 * [abdulmumin.com](http://abdulmumin.com)
 * [abdulmuminyqn@gmail.com](mailto:abdulmuminyqn@gmail.com)
@@ -42,7 +44,7 @@ I'm a technical writer and a developer with expertise in building both mobile an
 
 <a href="http://www.github.com/Abdulmumin1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulmumin1&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!-- <a href="https://github.com/Abdulmumin1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmumin1&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<a href="https://github.com/Abdulmumin1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmumin1&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
