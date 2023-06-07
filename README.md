@@ -40,12 +40,12 @@ I'm commited to both learning and writing and I actively share my learnings and 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Abdulmumin1"><img src="https://github-readme-stats.vercel.app/api?username=Abdulmumin1&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="Abdulmumin1's GitHub stats" /></a>
+<a href="http://www.github.com/Abdulmumin1"><img src="https://github-readme-stats.vercel.app/api?username=Abdulmumin1&show_icons=true&hide=&count_private=true&title_color=fa6c00&text_color=ffffff&icon_color=fa6c00&bg_color=202324&hide_border=true&show_icons=true" alt="Abdulmumin1's GitHub stats" /></a>
 
-<a href="http://www.github.com/Abdulmumin1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulmumin1&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Abdulmumin1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulmumin1&stroke=ffffff&background=202324&ring=fa6c00&fire=fa6c00&currStreakNum=ffffff&currStreakLabel=fa6c00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Abdulmumin1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmumin1&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Abdulmumin1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmumin1&langs_count=10&title_color=fa6c00&text_color=ffffff&icon_color=fa6c00&bg_color=202324&hide_border=true&locale=en&custom_title=Top%20%Languages&hide_progress=true" alt="Top Languages" /></a>
 
-### Support Me
+<!-- ### Support Me
 
-<a href="https://www.buymeacoffee.com/abdulmuminyqn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/abdulmuminyqn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
