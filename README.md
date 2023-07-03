@@ -9,7 +9,7 @@ A technical writer and a developer with a deep fascination for computer science 
 I'm commited to both learning and writing and I actively share my learnings and knowledge through my blog with the rest of the world.
 
 * Portfolio [yaqeen.me](https://yaqeen.me)
-* Blog [abdulmumin.com](http://abdulmumin.com)
+* Blog [abdulmumin.com](http://abdulmumin.com),  [yaqeen.me/blog](http://yaqeen.me/blog)
 * [abdulmuminyqn@gmail.com](mailto:abdulmuminyqn@gmail.com)
 
 ### Skills
