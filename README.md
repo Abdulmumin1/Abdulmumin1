@@ -4,7 +4,7 @@ Abdulmumin Yaqeen
 **Technical Writer & Developer**
 
 
-A technical writer and a developer with a deep fascination for computer science theory. Enjoys exploring new tools and technologies and  I actively seek opportunities to expand my knowledge and skill set.
+I'm a technical writer and a developer with a deep fascination for computer science theory. Enjoys exploring new tools and technologies and  I actively seek opportunities to expand my knowledge and skill set.
 
 I'm commited to both learning and writing and I actively share my learnings and knowledge through my blog with the rest of the world.
 
