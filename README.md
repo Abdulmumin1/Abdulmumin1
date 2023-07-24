@@ -6,7 +6,7 @@ Abdulmumin Yaqeen
 
 I'm a technical writer and a developer with a deep fascination for computer science theory. Enjoys exploring new tools and technologies and  I actively seek opportunities to expand my knowledge and skill set.
 
-I'm commited to both learning and writing and I actively share my learnings and knowledge through my blog with the rest of the world.
+I'm commited to both learning and writing and I actively share my learnings and knowledge through my blog with the rest of the world! 
 
 * Portfolio [yaqeen.me](https://yaqeen.me)
 * Blog [abdulmumin.com](http://abdulmumin.com),  [yaqeen.me/blog](http://yaqeen.me/blog)
