@@ -4,9 +4,9 @@ Abdulmumin Yaqeen
 **Technical Writer & Developer**
 
 
-I'm a technical writer and a developer with a deep fascination for computer science theory. Enjoys exploring new tools and technologies and  I actively seek opportunities to expand my knowledge and skill set.
+I'm a developer with deep fascination for computer science and gaining a deeper knowledge on computational paradigms.. I ardently hunt for every chance to broaden my horizons and elevate my expertise. It's not just a passion; it's an insatiable thirst for innovation! 🚀💡
 
-I'm really into both learning and writing and I actively share my learnings and knowledge through my blog with the rest of the world! 
+I think the best decision of my career was to start writing, I super enjoy writing about techie stuff. without a doubt, become one of the crowning achievements of my journey.
 
 * Portfolio [yaqeen.me](https://yaqeen.me)
 * Blog [abdulmumin.com](http://abdulmumin.com),  [yaqeen.me/blog](http://yaqeen.me/blog)
