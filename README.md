@@ -9,7 +9,7 @@ I'm a developer with deep fascination for computer science and gaining a deeper 
 I think the best decision of my career was to start writing, I super enjoy writing about techie stuff. without a doubt, become one of the crowning achievements of my journey.
 
 * Portfolio [yaqeen.me](https://yaqeen.me)
-* Blog [abdulmumin.com](http://abdulmumin.com),  [yaqeen.me/blog](http://yaqeen.me/blog)
+* Blog [dev.to/@abdulmuminyqn](https://dev.to/@abdulmuminyqn),  [yaqeen.me/blog](http://yaqeen.me/blog)
 * [abdulmuminyqn@gmail.com](mailto:abdulmuminyqn@gmail.com)
 
   
