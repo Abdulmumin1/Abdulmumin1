@@ -4,12 +4,14 @@ Abdulmumin Yaqeen
 **Technical Writer & Developer**
 
 
-I'm a developer with deep fascination for computer science and gaining a deeper knowledge on computational paradigms.. I ardently hunt for every chance to broaden my horizons and elevate my expertise. It's not just a passion; it's an insatiable thirst for innovation! 🚀💡
+I'm a developer with deep fascination for computer science and gaining a deeper knowledge on computational paradigms.. It's not just a passion; it's an insatiable thirst for innovation! 🚀💡
 
 I think the best decision of my career was to start writing, I super enjoy writing about techie stuff. without a doubt, become one of the crowning achievements of my journey.
 
-* Portfolio [yaqeen.me](https://yaqeen.me)
-* Blog [dev.to/@abdulmuminyqn](https://dev.to/@abdulmuminyqn),  [yaqeen.me/blog](http://yaqeen.me/blog)
+Follow along my writing series where I take a closer iook at interesting concepts: [under the hood series - yaqeen.me](https://www.yaqeen.me/blog/series/uth)
+
+* Portfolio [yaqeen.me](https://www.yaqeen.me)
+* Blog [dev.to/@abdulmuminyqn](https://dev.to/@abdulmuminyqn),  [yaqeen.me/blog](http://www.yaqeen.me/blog)
 * [abdulmuminyqn@gmail.com](mailto:abdulmuminyqn@gmail.com)
 
   
