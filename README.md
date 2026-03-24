@@ -1,7 +1,7 @@
 Abdulmumin Yaqeen
 ==================================
 
-I do stuff!
+I try
 
 Follow along my writing series where I take a closer iook at interesting concepts: [under the hood series - yaqeen.me](https://www.yaqeen.me/blog/series/uth)
 
