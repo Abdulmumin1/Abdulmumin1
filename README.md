@@ -1,4 +1,4 @@
-Abdulmumin Yaqeen
+Abdulmumin (Yaqeen) Abdulkarim
 ==================================
 
 i dump alot on my blog:  [yaqeen.me/blog](http://www.yaqeen.me/blog)
